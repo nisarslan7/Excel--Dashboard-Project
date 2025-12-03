@@ -50,7 +50,7 @@ Analiz öncesi veri setinin doğru yorumlanabilmesi için aşağıdaki işlemler
 - **Sonuç:** En çok müşteriye sahip grup **Segment 5**, en az müşteriye sahip grup **Segment 1**.  
 - **Yorum:** Segment 5 pazarlama stratejileri için öncelikli olabilir. Segment 1 büyüme fırsatı sunabilir.  
 
-![Segment Dağılım Tablosu](3.png)  
+![Segment Dağılım Tablosu](3-Segment grup dagilim.png)  
 ![Kümelenmiş Çubuk Grafiği](4.png)  
 
 ---
@@ -89,8 +89,6 @@ Analiz öncesi veri setinin doğru yorumlanabilmesi için aşağıdaki işlemler
 Proje kapsamında oluşturulan interaktif dashboard, tüm analizleri tek bir sayfada görselleştirmektedir.  
 ![Dashboard](dashboard.png)  
 
----
 
 
 
-💡 **Not:** README’deki `png1.png`, `png2.png` vb. görselleri kendi proje klasöründe aynı isimle eklediğinde GitHub üzerinde görünecektir. Dashboard görseli de `dashboard.png` olarak eklenebilir.
